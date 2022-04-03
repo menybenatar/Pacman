@@ -1,5 +1,7 @@
 # Pacman
 Pacman Game
 
-תחיל
-![image](https://user-images.githubusercontent.com/76394477/161423446-aa679f0d-acdd-42a8-b27d-e82ee316c3bb.png)
+
+
+https://user-images.githubusercontent.com/76394477/161423910-c700c3c1-43e8-42df-9afd-54219ca2bdab.mp4
+
