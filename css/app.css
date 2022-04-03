@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+  color: white;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.cell {
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  font-size: 1.5em;
+}
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+.start {
+  border: none;
+  margin: auto;
+  padding: 5px;
+  /* margin-top: 5px; */
+  cursor: pointer;
+  font-size: x-large;
+  background-color: deepskyblue;
+  border-radius: 10%;
+  text-align: center;
+}
+.start:hover {
+  background-color: rgb(113, 227, 117);
+}
+.restart {
+  border: none;
+  margin: auto;
+  padding: 7px;
+  margin-top: 5px;
+  cursor: pointer;
+  font-size: x-large;
+  background-color: royalblue;
+  border-radius: 10%;
+  text-align: center;
+}
+.restart:hover {
+  background-color: lightsalmon;
+}
+.gameOver {
+  font-size: xx-large;
+  text-align: center;
+}
+.board-container img {
+  width: 20px;
+}

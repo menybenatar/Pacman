@@ -1,0 +1,33 @@
+{
+  "liveServer.settings.port": 5503,
+  // "workbench.colorCustomizations": {
+  //   "activityBar.activeBackground": "#2bd3a4",
+  //   "activityBar.activeBorder": "#b046d9",
+  //   "activityBar.background": "#2bd3a4",
+  //   "activityBar.foreground": "#15202b",
+  //   "activityBar.inactiveForeground": "#15202b99",
+  //   "activityBarBadge.background": "#b046d9",
+  //   "activityBarBadge.foreground": "#e7e7e7",
+  //   "editorGroup.border": "#2bd3a4",
+  //   "panel.border": "#2bd3a4",
+  //   "sash.hoverBorder": "#2bd3a4",
+  //   "sideBar.border": "#2bd3a4",
+  //   "statusBar.background": "#22a983",
+  //   "statusBar.foreground": "#e7e7e7",
+  //   "statusBarItem.hoverBackground": "#2bd3a4",
+  //   "statusBarItem.remoteBackground": "#22a983",
+  //   "statusBarItem.remoteForeground": "#e7e7e7",
+  //   "titleBar.activeBackground": "#22a983",
+  //   "titleBar.activeForeground": "#e7e7e7",
+  //   "titleBar.inactiveBackground": "#22a98399",
+  //   "titleBar.inactiveForeground": "#e7e7e799"
+  // },
+  "peacock.color": "#22a983",
+  "editor.cursorStyle": "line",
+  "editor.glyphMargin": true,
+  "editor.multiCursorMergeOverlapping": true,
+  "editor.occurrencesHighlight": true,
+  "editor.overviewRulerBorder": true,
+  "editor.renderLineHighlight": "line",
+  "editor.semanticTokenColorCustomizations": {}
+}
